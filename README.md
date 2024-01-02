@@ -14,12 +14,6 @@ One Day Project
 - This all links to a SQLite3 database
 
 ## Details
-- First "project" that isn't part of a course/class
-- No tutorials were used, just documentation and online searches
-- NOT FULLY DEVELOPED as I am still learning
-
-### Disclaimer
-I am a 1st-year Computer Science student with limited experience in Python, so there will likely be many bugs and functionality errors. 
-
-This project is about learning how different aspects of Software Development interact and working through those problems as they come up, and is not intended to be used to securly save passwords for anyone.
+- No tutorials were used, only documentation
+- An attempt to branch my learning to something that I want to do without guidance
 
